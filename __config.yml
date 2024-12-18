@@ -1,3 +1,5 @@
-title: My Jekyll Site
-description: A simple site using the Cayman theme.
-remote_theme: jekyll/cayman
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
