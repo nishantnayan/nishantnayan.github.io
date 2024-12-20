@@ -1,5 +1,6 @@
 theme: "just-the-docs"
-baseurl: "https://nishantnayan.github.io/"
+url: "https://nishantnayan.github.io/"
+baseurl: "justTheDocs_v1"
 logo: "assets/images/logo.png"
 title: "File Manager Documentation"
 description: "Documentation for File Manager tool"
