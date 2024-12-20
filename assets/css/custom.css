@@ -1,0 +1,22 @@
+/* Ensure the navbar uses Flexbox to align items in a row */
+.navbar {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Add some space between the logo and the title */
+  .navbar-brand {
+    margin-right: 15px; /* Adjust as needed */
+  }
+  
+  /* Move the site title after the logo */
+  .site-title {
+    order: 2; /* Ensure title appears after logo */
+  }
+  
+  /* Optional: Adjust title font size and spacing */
+  .site-title {
+    font-size: 1.5rem; /* Adjust font size */
+    margin: 0;         /* Remove any default margin */
+  }
+  

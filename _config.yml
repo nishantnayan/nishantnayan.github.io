@@ -1,0 +1,13 @@
+theme: "just-the-docs"
+logo: "assets/images/logo.png"
+title: "File Manager Documentation"
+description: "Documentation for File Manager tool"
+navbar:
+  - text: "Home"
+    url: "/"
+  - text: "Getting Started"
+    url: "/getting-started/"
+  - text: "API"
+    url: "/api/"
+  - text: "FAQ"
+    url: "/faq/"
